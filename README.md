@@ -5,14 +5,14 @@ this project was made in 2019 for an assigned project in my 2nd year in electric
 the program uses the defind string format in both input and output.
 the string representation of the matrix is : [-2 10.2;0 33.44]
 the program has multiple operations as follows: 
-/ + for Adding
-/ - for Subtracting
-/ * for multiplying
-/ / for Division
-/ ^ for Power
-/ T for Transpose
-/ I for Inverse
-/ D for Determinant 
+* + for Adding
+* - for Subtracting
+* * for multiplying
+* / for Division
+* ^ for Power
+* T for Transpose
+* I for Inverse
+* D for Determinant 
 the project has two parts real part and bouns complex part:
 ### real-matrix 
 this file includes my code for :

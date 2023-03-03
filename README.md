@@ -1,6 +1,6 @@
 # Matrix-Operations
 
-this project was made in 2019 for an assigned project in my 2nd year in electricl depatrmant , Faculty of engineering , Ain Shams University.
+this project was made in 2019 for an assigned project in my 2nd year in Electrical depatrmant , Faculty of engineering , Ain Shams University.
 
 #### the program uses the defind string format in both input and output.
 #### the string representation of the matrix is : [-2 10.2;0 33.44]

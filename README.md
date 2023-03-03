@@ -2,9 +2,9 @@
 
 this project was made in 2019 for an assigned project in my 2nd year in electricl depatrmant , Faculty of engineering , Ain Shams University.
 
-the program uses the defind string format in both input and output.
-the string representation of the matrix is : [-2 10.2;0 33.44]
-the program has multiple operations as follows: 
+#### the program uses the defind string format in both input and output.
+#### the string representation of the matrix is : [-2 10.2;0 33.44]
+#### the program has multiple operations as follows: 
 * (+) for Adding
 * (-) for Subtracting
 * (*) for multiplying
@@ -13,12 +13,12 @@ the program has multiple operations as follows:
 * T for Transpose
 * I for Inverse
 * D for Determinant 
-the project has two parts real part and bouns complex part:
+#### the project has two parts real part and bouns complex part:
 ### real-matrix 
 this file includes my code for :
 * converting the string matrix to an array with real numbers  
 * applying add,subtract,division and multiply operation to two matrices with real numbers
-* getting power,inverse,transopse and determinant for a matrix 
+* getting power,inverse,transopse and determinant for a matrix with real numbers
 
 ### complex-matrix
 this file includes my code for:
